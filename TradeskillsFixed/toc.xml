@@ -1,0 +1,9 @@
+<Addon Name="TradeskillsFixed" APIVersion="16">
+	<Script Name="TradeskillTree.lua" />
+    <Form Name="TradeskillTree.xml" />
+	<Script Name="TradeskillTalents.lua" />
+    <Form Name="TradeskillTalents.xml" />
+	<Script Name="TradeskillContainer.lua"/>
+    <Form Name="TradeskillContainer.xml"/>
+    <ReplaceAddon Name="Tradeskills"/>
+</Addon>

@@ -1,0 +1,5 @@
+<Addon Name="TradeskillSchematicsFixed" APIVersion="16">
+	<Script Name="TradeskillSchematics.lua" />
+    <Form Name="TradeskillSchematics.xml" />
+    <ReplaceAddon Name="Tradeskills"/>
+</Addon>

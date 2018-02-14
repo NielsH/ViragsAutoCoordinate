@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Virag" APIVersion="16" Name="ViragsAutoCoordinate" Description="">
+    <Script Name="ViragsAutoCoordinate.lua"/>
+	<Script Name="LibApolloFixes/LibApolloFixes-1.0.lua"/>
+    <Form Name="ViragsAutoCoordinate.xml"/>
+</Addon>
